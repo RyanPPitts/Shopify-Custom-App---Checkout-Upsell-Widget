@@ -3,7 +3,7 @@
 client_id = "a4dfa109f919ef5c718cea9be1c3ef67"
 name = "ce-pre-purchase"
 handle = "ce-pre-purchase"
-application_url = "https://comfortable-arc-cleveland-mileage.trycloudflare.com"
+application_url = "https://brandon-achievements-burke-evaluate.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://comfortable-arc-cleveland-mileage.trycloudflare.com/auth/callback",
-  "https://comfortable-arc-cleveland-mileage.trycloudflare.com/auth/shopify/callback",
-  "https://comfortable-arc-cleveland-mileage.trycloudflare.com/api/auth/callback"
+  "https://brandon-achievements-burke-evaluate.trycloudflare.com/auth/callback",
+  "https://brandon-achievements-burke-evaluate.trycloudflare.com/auth/shopify/callback",
+  "https://brandon-achievements-burke-evaluate.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
