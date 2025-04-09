@@ -2,6 +2,8 @@
 
 This Checkout UI Extension shows upsell products during checkout based on the collections of items in the cart. It improves average order value (AOV) by recommending relevant products that the customer might want to add before completing their purchase.
 
+![upsell_checkout](https://github.com/user-attachments/assets/eef340e3-70a5-4f00-a8ce-df0a0a7f6a44)
+
 ---
 
 ## 🧰 Steps to Create the Checkout Extension (Custom App)
